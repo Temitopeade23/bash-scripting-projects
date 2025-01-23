@@ -21,4 +21,4 @@ Welcome to my collection of Bash scripting projects! Each project focuses on aut
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/bash-scripting-projects.git
+   git clone [https://github.com/yourusername/bash-scripting-projects.git](https://github.com/Temitopeade23/bash-scripting-projects.git)

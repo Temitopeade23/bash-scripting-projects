@@ -10,11 +10,9 @@ Welcome to my collection of Bash scripting projects! Each project focuses on aut
 
 ## 📂 Table of Contents
 
-1. **[Log Parser](./project-01-log-parser/README.md)**: Parse server logs to summarize errors and warnings.
-2. **[File Organizer](./project-02-file-organizer/README.md)**: Automate file organization into directories by file type.
-3. **[Disk Usage Monitor](./project-03-disk-usage-monitor/README.md)**: Monitor disk usage and send alerts for low disk space.
-4. **[Backup Script](./project-04-backup-script/README.md)**: Automate directory backups with customizable options.
-5. **[More Projects Coming Soon...]**
+1. **[Git Installation Script](https://github.com/yourusername/bash-scripting-projects/tree/main/project-01-git-installation-script)**  
+   - Automates the installation of Git on Linux and macOS, detecting the operating system and package manager.
+2. **[More Projects Coming Soon...]**
 
 ---
 

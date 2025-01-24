@@ -10,7 +10,7 @@ Welcome to my collection of Bash scripting projects! Each project focuses on aut
 
 ## 📂 Table of Contents
 
-1. **[Git Installation Script](https://github.com/yourusername/bash-scripting-projects/tree/main/project-01-git-installation-script)**  
+1. **[Git Installation Script](https://github.com/Temitopeade23/bash-scripting-projects/tree/main/project-01-git-installation-script)**  
    - Automates the installation of Git on Linux and macOS, detecting the operating system and package manager.
 2. **[More Projects Coming Soon...]**
 
